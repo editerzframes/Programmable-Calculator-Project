@@ -1,0 +1,6 @@
+Print "Enter the value of a"
+Input a
+Print "Enter the value of b"
+Input b
+sum = a+b
+Print sum
